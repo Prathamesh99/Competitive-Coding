@@ -1,3 +1,4 @@
+//PROGRAM TO CHECK FOR BALANCED PARENTHESES USING STACK
 #include<iostream>
 #include<string>
 #include<stack>
